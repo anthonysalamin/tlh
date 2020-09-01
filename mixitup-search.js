@@ -1,7 +1,7 @@
 /*
  * MixItUp 3 + Webflow CMS
  * Filter (one dimension) + sort + search + hash URL
- * Build: 17.06.2020 | anthonysalamin.ch
+ * Build date: 01.09.2020 | anthonysalamin.ch
  */
 // 🌮 on DOM loaded
 document.addEventListener("DOMContentLoaded", (event) => {
